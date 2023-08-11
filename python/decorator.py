@@ -191,4 +191,3 @@ def outer(f) -> Callable:
 def test():
     return 1
 
-print("test", test.__closure__[0].cell_contents)
