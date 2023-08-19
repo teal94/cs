@@ -191,3 +191,4 @@ def outer(f) -> Callable:
 def test():
     return 1
 
+
